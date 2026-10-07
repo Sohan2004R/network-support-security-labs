@@ -2,6 +2,13 @@
 
 Cisco Packet Tracer lab covering VLANs, inter-VLAN routing, DHCP, NAT, ACLs, SSH and port security.
 Built as part of the Cisco Networking Academy "Network Support and Security" course.
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
+![Course](https://img.shields.io/badge/Course-Network_Support_%26_Security-blue)
+![VLAN](https://img.shields.io/badge/VLAN-configured-brightgreen)
+![NAT](https://img.shields.io/badge/NAT-configured-brightgreen)
+![ACL](https://img.shields.io/badge/ACL-configured-brightgreen)
+![SSH](https://img.shields.io/badge/SSH-v2-brightgreen)
+![Status](https://img.shields.io/badge/Lab-Completed-success)
 
 ## Topology
 
